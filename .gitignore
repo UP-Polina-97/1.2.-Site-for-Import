@@ -1,0 +1,10 @@
+
+#FOLDERS TO IGNORE
+tmp
+#FILES TO IGNORE 
+Thumbs.db 
+.DS_Store
+
+#IGNORE FILES WITH OLD AND BACKUP
+*_old
+**_backup
